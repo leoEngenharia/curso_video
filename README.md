@@ -1,2 +1,4 @@
 # curso_video
- primeiro repositorio versionado
+ primeiro repositorio GIT, GITHUB
+ Primeiro repositóro GIT, GITHUB
+ 
